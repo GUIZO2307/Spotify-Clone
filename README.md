@@ -1,4 +1,4 @@
-# 📌 Nome do Projeto
+# 📌 Spotify-Clone
 Um projeto de estudo prático para desenvolvimento web, abordando HTML, CSS e JavaScript.
 
 ## 📝 Descrição
